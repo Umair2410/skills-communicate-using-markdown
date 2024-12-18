@@ -10,3 +10,6 @@ In this change I have created a file with a header
 ```python
 charles = "Willis"
 ```
+- [x] Defeat Don Flamingo
+- [x] Defeat Kaido
+- [ ] Defeat Black Beard
